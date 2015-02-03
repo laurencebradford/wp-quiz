@@ -1,3 +1,7 @@
+# WP Quiz
+
+Created by [Julie Cameron](http://juliecameron.com) while previously employed at [Quicken Loans](http://quickenloans.com), Detroit, MI
+
 A jQuery plugin for creating pretty, dynamic quizzes.
 
 
@@ -180,4 +184,4 @@ See `js/slickQuiz-config.js`
     }
 
 
-Created by [Julie Cameron](http://juliecameron.com) while previously employed at [Quicken Loans](http://quickenloans.com), Detroit, MI
+
